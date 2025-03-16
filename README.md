@@ -1,24 +1,23 @@
 ![logo](assets/logo.png)
-{{ $values := (datasource "values") }}
-# {{ $values.general.ctf.name }}
-{{- range $values.general.ctf.urls }}
-- {{ . }}
-{{- end }}
+
+# SSM-CTF-Archive
+- https://sakerhetssm.se/challenges
 
 ## Description
-*{{ $values.general.ctf.description }}*
+**
 
 
 # Results
-**Username:** {{ .Env.CTF_USERNAME }}
+**Username:** arch-err
 
-**Team:** {{ .Env.CTF_TEAM }}
+**Team:** None
 
 
-**Flags:** (0/X)
+**Flags:** (0/1)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 
 # Challenges
+- [ ] [Smushed_zip](challenges/Smushed_zip)

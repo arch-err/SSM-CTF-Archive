@@ -1,9 +1,10 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: SSM-CTF-Archive
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://sakerhetssm.se/challenges
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/SSM-CTF-Archive.git
+challenges:
+  - name: Smushed_zip
