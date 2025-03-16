@@ -22,14 +22,36 @@
 # Challenges
 
 
+## SSM 2022 Kval
+
+### Forensics
+- [x] [QR_cod](challenges/QR_cod)
+- [ ] [Personnummer](challenges/Personnummer)
+
+
+## SSM 2023 Kval
+
+### Forensics
+- [x] [Zaknas](challenges/Zaknas)
+- [ ] [Lost_In_Code_—_Orange_Cyberdefense](challenges/Lost_In_Code_—_Orange_Cyberdefense)
+
+
+## Crate-CTF 2023
+
+### misc
+- [x] [Tangentbord](challenges/Tangentbord)
+
+
 ## SSM 2024 Kval
 
 ### Forensics
 - [x] [Smushed_zip](challenges/Smushed_zip)
-- [x] [QR_cod](challenges/QR_cod)
+
+
+## Knäck Koden 2024
+
+### Forensics
 - [x] [Raderat_lösenord](challenges/Raderat_lösenord)
-- [x] [Zaknas](challenges/Zaknas)
-- [ ] [Lost_In_Code_—_Orange_Cyberdefense](challenges/Lost_In_Code_—_Orange_Cyberdefense)
-- [ ] [Personnummer](challenges/Personnummer)
+
+### osint
 - [x] [Glömsk_turist](challenges/Glömsk_turist)
-- [x] [Tangentbord](challenges/Tangentbord)
