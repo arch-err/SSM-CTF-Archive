@@ -13,7 +13,7 @@
 **Team:** None
 
 
-**Flags:** (5/7)
+**Flags:** (6/8)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -32,3 +32,4 @@
 - [ ] [Lost_In_Code_—_Orange_Cyberdefense](challenges/Lost_In_Code_—_Orange_Cyberdefense)
 - [ ] [Personnummer](challenges/Personnummer)
 - [x] [Glömsk_turist](challenges/Glömsk_turist)
+- [x] [Tangentbord](challenges/Tangentbord)
