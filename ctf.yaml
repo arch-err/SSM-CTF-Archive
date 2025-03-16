@@ -1,10 +1,16 @@
 general:
   ctf:
     name: SSM-CTF-Archive
-    description: ""
+    description: "Här kan du öva på utmaningar från tidigare års upplagor av Säkerhets-SM."
     urls:
       - https://sakerhetssm.se/challenges
     repo:
       URL: git@github.com:arch-err/SSM-CTF-Archive.git
 challenges:
   - name: Smushed_zip
+  - name: QR_cod
+  - name: Raderat_lösenord
+  - name: Zaknas
+  - name: Lost_In_Code_—_Orange_Cyberdefense
+  - name: Personnummer
+  - name: Glömsk_turist
